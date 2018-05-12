@@ -1,0 +1,37 @@
+_repo: My-Miscellanies-Vol.-1--of-2-_43893
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+description: ''
+gutenberg_issued: '2013-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43893'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English literature -- 19th century'
+tableOfContents: 'Sketches of character: I. Talk-stoppers -- Social grievances: I.
+  A journey in search of nothing -- Nooks and corners of history: I. A queen''s revenge
+  -- Social grievances: II. A petition to the novel-writers -- Fragments of personal
+  experience: I. Laid up in lodgings -- Sketches of character: II. A shockingly rude
+  article -- Nooks and corners of history: II. The great (forgotten) invasion -- Curiosities
+  of literature: I. The unknown public -- Social grievances: III. Give us room! --
+  Curiosities of literature: II. Portrait of an author, painted by his publisher --
+  Fragments of personal experience: II. My black mirror -- Sketches of character:
+  III. Mrs. Badgery.'
+title: My Miscellanies, Vol. 1 (of 2)
+url: http://www.gutenberg.org/ebooks/43893
